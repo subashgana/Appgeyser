@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Endeavour  Mobile App </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Endeavour</string>
+    <string name="nav_photos">Grid</string>
+    <string name="nav_movies">Favourites</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about_us">About Us</string>
+    <string name="nav_blog">Appsgeyser Updates</string>
+    <string name="nav_create">Amalgam +</string>
+    <string name="nav_signin_devconsole">Website</string>
+    <string name="nav_admob">Time Sheet</string>
+    <string name="nav_admobtutorial">AdmobTutorial</string>
+    <string name="nav_fb"></string>
+    <string name="nav_rate">Rate this App</string>
+
+    <string name="nav_powered_by">powered by Alieno Technologies</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Appsgeyser Create App</item>
+        <item>Grid</item>
+        <item>Favourites</item>
+        <item>Notifications</item>
+        <!--   <item>Notifications</item>
+        <item>Settings</item>-->
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_share">Share</string>
+    <string name="action_rate">Rate the App</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+
+    <string name="about_us">Samayal Virundhu is for making South Indian food recipes simple to follow. You can find here CHETTINADU RECIPES, Millet recipes,Mushroom, paneer, snacks sweets, gravy recipes, and Western recipes.</string>
+
+    <string name="Busineness_enquiries">For Business Enquiries</string>
+
+    <string name="powered_by">"Copyright \u00a9 " Powered by Alieno Technologies</string>
+  <!--  <string name="banner_home_footer">ca-app-pub-3543575887174761/4291237730</string>
+    <string name="interstitial_full_screen_aboutus">ca-app-pub-3543575887174761/7235333330</string>
+    <string name="interstitial_full_screen_admob">ca-app-pub-3543575887174761/8712066530</string>
+    <string name="interstitial_full_screen_admobtutorial">ca-app-pub-3543575887174761/1188799734</string>
+    <string name="interstitial_full_screen_createnow">ca-app-pub-3543575887174761/2665532930</string>
+    <string name="interstitial_full_screen_googledevelopersignin">ca-app-pub-3543575887174761/4142266131</string>
+    <string name="interstitial_full_screen_mainactivity">ca-app-pub-3543575887174761/5618999339</string>
+    <string name="interstitial_full_screen_tabblogapp">ca-app-pub-3543575887174761/7095732537</string>
+    <string name="interstitial_full_screen_tabfacebookapp">ca-app-pub-3543575887174761/8572465739</string>
+-->
+    <string name="interstitial_full_reward">ca-app-pub-3543575887174761/7368260939</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="one">ONE</string>
+    <string name="eight">EIGHT</string>
+    <string name="five">FIVE</string>
+    <string name="four">FOUR</string>
+    <string name="nine">NINE</string>
+    <string name="seven">SEVEN</string>
+    <string name="six">SIX</string>
+    <string name="ten">TEN</string>
+    <string name="three">THREE</string>
+    <string name="two">TWO</string>
+</resources>

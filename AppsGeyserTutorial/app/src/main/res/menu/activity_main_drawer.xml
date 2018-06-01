@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon"
+            android:title="@string/nav_home" />
+    </group>
+
+    <item android:title="Tools">
+        <menu>
+
+            <item
+                android:id="@+id/nav_create"
+                android:title="@string/nav_create" />
+
+
+            <item
+                android:id="@+id/navi_admob"
+                android:title="@string/nav_admob" />
+
+            <item
+                android:id="@+id/navi_signin_dev"
+                android:title="@string/nav_signin_devconsole" />
+
+           <!-- <item
+                android:id="@+id/nav_admobtutorial"
+                android:title="@string/nav_admobtutorial" />
+
+
+
+            <item
+                android:id="@+id/nav_blog"
+                android:title="@string/nav_blog" />-->
+
+
+            <item
+                android:id="@+id/nav_fb"
+                android:title="@string/nav_fb" />
+
+
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="@string/nav_rate" />
+
+            <!--  <item
+                  android:id="@+id/nav_powered_by"
+                  android:title="@string/nav_powered_by" />-->
+          <!--  <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="@string/privacy_policy" />-->
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "431032597655",
+    "firebase_url": "https://endeavourtest-bc57c.firebaseio.com",
+    "project_id": "endeavourtest-bc57c",
+    "storage_bucket": "endeavourtest-bc57c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431032597655:android:4d6f7b5484284cbe",
+        "android_client_info": {
+          "package_name": "com.appsgeyser.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431032597655-6s0kpo3a7ntonu2ct6f0fsnf89ijue80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsgeyser.tutorial",
+            "certificate_hash": "81152927ff6c3fa4a2b794e69abda71fa2f2d797"
+          }
+        },
+        {
+          "client_id": "431032597655-vqdkcattf8111sl7q318j1smnuke1s2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJlW6we9Ij-FD9o0BdhBEB2yKwHTDB-1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431032597655-vqdkcattf8111sl7q318j1smnuke1s2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
